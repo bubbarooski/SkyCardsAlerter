@@ -1,0 +1,6 @@
+[
+  { "model_name": "Boeing 787", "icao_type": "B788" },
+  { "model_name": "Boeing 747", "icao_type": "B744" },
+  { "model_name": "Airbus A380", "icao_type": "A388" },
+  { "model_name": "Airbus A350", "icao_type": "A359" }
+]

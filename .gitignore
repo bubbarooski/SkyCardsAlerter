@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SkyCardsAlerter local secrets & runtime data - never commit real versions
+# (only the .example files belong in the repo; see CLAUDE.md)
+config.json
+data/wanted_list.json
+data/dedupe_store.json
+data/aircraftDatabase.csv
+data/aircraft_type_index.json
+logs/
